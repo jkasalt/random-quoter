@@ -3,7 +3,7 @@ Is a program that displays random quotes from the dataset given by ADA 2021 EPFL
 
 ## Installation (basically compile it yourself)
 
-1. Install rust: [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
+1. Install the rust programming language (takes little time): [https://www.rust-lang.org/tools/install](https://www.rust-lang.org/tools/install)
 1. `git clone` this repositiory
 1. make sure the dataset is extracted in `../datasets` and not renamed.
 1. otherwise you can rename the file path in the line that says "`File::open`" in `src/main.rs`
